@@ -1,0 +1,54 @@
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\bin\Debug\net6.0\appsettings.json
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\bin\Debug\net6.0\CalculadoraComTestes.exe
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\bin\Debug\net6.0\CalculadoraComTestes.deps.json
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\bin\Debug\net6.0\CalculadoraComTestes.runtimeconfig.json
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\bin\Debug\net6.0\CalculadoraComTestes.dll
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\bin\Debug\net6.0\ref\CalculadoraComTestes.dll
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\bin\Debug\net6.0\CalculadoraComTestes.pdb
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.csproj.AssemblyReference.cache
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.AssemblyInfoInputs.cache
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.AssemblyInfo.cs
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.csproj.CoreCompileInputs.cache
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\obj\Debug\net6.0\scopedcss\bundle\CalculadoraComTestes.styles.css
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.csproj.CopyComplete
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.dll
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\obj\Debug\net6.0\ref\CalculadoraComTestes.dll
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.pdb
+C:\Users\filipe.regis\source\repos\CalculadoraComTestes\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.genruntimeconfig.cache
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\bin\Debug\net6.0\appsettings.json
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\bin\Debug\net6.0\CalculadoraComTestes.exe
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\bin\Debug\net6.0\CalculadoraComTestes.deps.json
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\bin\Debug\net6.0\CalculadoraComTestes.runtimeconfig.json
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\bin\Debug\net6.0\CalculadoraComTestes.dll
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\bin\Debug\net6.0\CalculadoraComTestes.pdb
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.csproj.AssemblyReference.cache
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.AssemblyInfoInputs.cache
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.AssemblyInfo.cs
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.csproj.CoreCompileInputs.cache
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\obj\Debug\net6.0\scopedcss\bundle\CalculadoraComTestes.styles.css
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.csproj.CopyComplete
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.dll
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\obj\Debug\net6.0\refint\CalculadoraComTestes.dll
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.pdb
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\obj\Debug\net6.0\CalculadoraComTestes.genruntimeconfig.cache
+C:\Users\leo-b\Documents\estudos rodrigo\Senac_Calculadora_Testes_Unitarios\CalculadoraComTestes\obj\Debug\net6.0\ref\CalculadoraComTestes.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xJC5UOuaesnm7GRGlXW1GoUJArgzJB+8QFklsn6n8RO6i47iTwPojetcjIFnJszqKpeT0nF/rM0Lx2FegE3i1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leo-b\\Documents\\estudos rodrigo\\Senac_Calculadora_Testes_Unitarios\\TestesUnitariosProjeto\\TestesUnitariosProjeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leo-b\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\leo-b\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\leo-b\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\leo-b\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\leo-b\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\leo-b\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
